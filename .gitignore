@@ -1,0 +1,22 @@
+# Credenciales - NUNCA subir a Git
+.env
+
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Outputs del scraper (datos extraídos)
+output/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Debug files
+debug_*.html
