@@ -1,4 +1,4 @@
-# ScienTI Scraper — Fase 3 · Sistema UPB
+# ScienTI Scraper — Fase 3 
 
 Extractor de datos de la plataforma ScienTI de MinCiencias.
 Cubre GrupLAC (público) y CvLAC (autenticado).
