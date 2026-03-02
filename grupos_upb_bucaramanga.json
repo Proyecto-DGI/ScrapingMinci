@@ -1,0 +1,2672 @@
+[
+  {
+    "cod_grupo": "COL0100091",
+    "nro": "00000000100091",
+    "nombre": "GRUPO DE INVESTIGACION EN TECNOLOGIA DEL PLASMA",
+    "lider": "FERNANDO DURAN FLOREZ",
+    "avalado_por": "1 de 2",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000100091"
+  },
+  {
+    "cod_grupo": "COL0066964",
+    "nro": "00000000066964",
+    "nombre": "CONTROL INDUSTRIAL",
+    "lider": "LUIS ANGEL SILVA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000066964"
+  },
+  {
+    "cod_grupo": "COL0029791",
+    "nro": "00000000029791",
+    "nombre": "GRUPO DE INVESTIGACION EN BIOINGENIERIA, SENALES Y MICROELECTRONICA (BISEMIC)",
+    "lider": "SILVIA ALEJANDRA SOTELO  LOPEZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000029791"
+  },
+  {
+    "cod_grupo": "COL0106587",
+    "nro": "00000000106587",
+    "nombre": "GRUPO DE INVESTIGACION EN CONTEXTOS PARA ADMINISTRACION DE NEGOCIOS INTERNACIONALES (GRICANI)",
+    "lider": "JAIME ENRIQUE SARMIENTO SUAREZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000106587"
+  },
+  {
+    "cod_grupo": "COL0006169",
+    "nro": "00000000006169",
+    "nombre": "GRUPO INTERDISCIPLINARIO DE ESTUDIOS SOBRE CULTURA, DERECHOS HUMANOS Y MUERTE",
+    "lider": "OSCAR EDUARDO RUEDA PIMIENTO",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006169"
+  },
+  {
+    "cod_grupo": "COL0027699",
+    "nro": "00000000027699",
+    "nombre": "INTELEC-GRUPO DE INVESTIGACION EN INFORMATICA Y TELECOMUNICACIONES",
+    "lider": "OMAR PINZON ARDILA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000027699"
+  },
+  {
+    "cod_grupo": "COL0100369",
+    "nro": "00000000100369",
+    "nombre": "SABER, EDUCACION Y DOCENCIA",
+    "lider": "CESAR AUGUSTO GONZALEZ MANOSALVA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000100369"
+  },
+  {
+    "cod_grupo": "COL0035349",
+    "nro": "00000000035349",
+    "nombre": "ORGANIZACIONES, SOSTENIBILIDAD Y TRANSFORMACION PSICOSOCIAL",
+    "lider": "ANA FERNANDA URIBE RODRIGUEZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000035349"
+  },
+  {
+    "cod_grupo": "COL0005726",
+    "nro": "00000000005726",
+    "nombre": "GRINDIC",
+    "lider": "NORMA CRISTINA SOLARTE VANEGAS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005726"
+  },
+  {
+    "cod_grupo": "COL0006249",
+    "nro": "00000000006249",
+    "nombre": "GRUPO DE INVESTIGACIONES EN INGENIERIA SANITARIA Y AMBIENTAL",
+    "lider": "ALEXANDRA CERON VIVAS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006249"
+  },
+  {
+    "cod_grupo": "COL0005529",
+    "nro": "00000000005529",
+    "nombre": "GIA",
+    "lider": "GLADYS ELENA RUEDA BARRIOS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005529"
+  },
+  {
+    "cod_grupo": "COL0104958",
+    "nro": "00000000104958",
+    "nombre": "CIPJURIS GRUPO DE INVESTIGACION EN CIENCIA POLITICA Y DERECHO",
+    "lider": "LUISA FERNANDA GARCIA SALAZAR",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000104958"
+  },
+  {
+    "cod_grupo": "COL0027536",
+    "nro": "00000000027536",
+    "nombre": "GRUPO DE INVESTIGACION EN MATERIALES \"GIM\"",
+    "lider": "CLAUDIA PAULINA GONZALEZ CUERVO",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000027536"
+  },
+  {
+    "cod_grupo": "COL0053259",
+    "nro": "00000000053259",
+    "nombre": "GIDETECHMA",
+    "lider": "SERGIO ANDRES GOMEZ SUAREZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000053259"
+  },
+  {
+    "cod_grupo": "COL0121968",
+    "nro": "00000000121968",
+    "nombre": "TIC Y CIUDADANIA",
+    "lider": "GIOVANNI BOHORQUEZ PEREIRA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000121968"
+  },
+  {
+    "cod_grupo": "COL0014019",
+    "nro": "00000000014019",
+    "nombre": "NEUROCIENCIAS Y COMPORTAMIENTO UIS-UPB",
+    "lider": "CARLOS ARTURO CONDE COTES",
+    "avalado_por": "4 de 6",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014019"
+  },
+  {
+    "cod_grupo": "COL0084999",
+    "nro": "00000000084999",
+    "nombre": "DETECCION DE CONTAMINANTES Y REMEDIACION (DECOR)",
+    "lider": "CESAR CAMILO CANON BARRIGA",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000084999"
+  },
+  {
+    "cod_grupo": "COL0042935",
+    "nro": "00000000042935",
+    "nombre": "PSICOLOGIA CLINICA Y DE LA SALUD",
+    "lider": "ANGELA PILAR ALBARRACIN RODRIGUEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000042935"
+  },
+  {
+    "cod_grupo": "COL0095527",
+    "nro": "00000000095527",
+    "nombre": "GRUPO EN PRODUCCION Y LOGISTICA - PROLOG",
+    "lider": "MARYORY PATRICIA VILLAMIZAR LEON",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000095527"
+  },
+  {
+    "cod_grupo": "COL0076601",
+    "nro": "00000000076601",
+    "nombre": "MEDITA",
+    "lider": "LUZ LIBIA CALA VECINO",
+    "avalado_por": "2 de 3",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000076601"
+  },
+  {
+    "cod_grupo": "COL0009242",
+    "nro": "00000000009242",
+    "nombre": "GRUPO DE INVESTIGACION RADIOGIS",
+    "lider": "HOMERO ORTEGA BOADA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009242"
+  },
+  {
+    "cod_grupo": "COL0011821",
+    "nro": "00000000011821",
+    "nombre": "HERMENEUTICA JURIDICA",
+    "lider": "PABLO ANDRES DELGADO PENA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011821"
+  },
+  {
+    "cod_grupo": "COL0010753",
+    "nro": "00000000010753",
+    "nombre": "GRUPO DE NEUROPSIQUIATRIA",
+    "lider": "GERMAN EDUARDO RUEDA JAIMES",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010753"
+  },
+  {
+    "cod_grupo": "COL0058247",
+    "nro": "00000000058247",
+    "nombre": "LABORATORIO DE QUIMICA ORGANICA Y BIOMOLECULAR",
+    "lider": "ANGELA MARCELA MONTANO ANGARITA",
+    "avalado_por": "3 de 5",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000058247"
+  },
+  {
+    "cod_grupo": "COL0028711",
+    "nro": "00000000028711",
+    "nombre": "GIRES: RECURSOS - ENERGIA - SOSTENIBILIDAD",
+    "lider": "YECID ALFONSO MUNOZ MALDONADO",
+    "avalado_por": "1 de 1",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028711"
+  },
+  {
+    "cod_grupo": "COL0048732",
+    "nro": "00000000048732",
+    "nombre": "SALUD PUBLICA UDES",
+    "lider": "ERIKA YURLEY DURAN NINO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000048732"
+  },
+  {
+    "cod_grupo": "COL0025709",
+    "nro": "00000000025709",
+    "nombre": "GRUPO DE INVESTIGACION EN FISICOQUIMICA TEORICA Y EXPERIMENTAL - GIFTEX",
+    "lider": "CRISTIAN BLANCO TIRADO",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000025709"
+  },
+  {
+    "cod_grupo": "COL0066267",
+    "nro": "00000000066267",
+    "nombre": "LABORATORIO DE SINTESIS ORGANICA",
+    "lider": "ALIRIO PALMA RODRIGUEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000066267"
+  },
+  {
+    "cod_grupo": "COL0193205",
+    "nro": "00000000193205",
+    "nombre": "GICA-UDES",
+    "lider": "HECTOR JAVIER NARVAEZ BEDOYA",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000193205"
+  },
+  {
+    "cod_grupo": "COL0002269",
+    "nro": "00000000002269",
+    "nombre": "CENTRO DE INVESTIGACION PARA EL DESARROLLO SOSTENIBLE EN INDUSTRIA Y ENERGIA",
+    "lider": "VIATCHESLAV  KAFAROV",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002269"
+  },
+  {
+    "cod_grupo": "COL0054023",
+    "nro": "00000000054023",
+    "nombre": "CRISALIDA",
+    "lider": "KAREN PIEDAD MARTINEZ MARCIALES",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000054023"
+  },
+  {
+    "cod_grupo": "COL0152015",
+    "nro": "00000000152015",
+    "nombre": "GRUPO DE INVESTIGACION EN AMBIENTES VIRTUALES DE APRENDIZAJE Y TECNOLOGIA EDUCATIVA- GRAVATE",
+    "lider": "ELIECER PINEDA BALLESTEROS",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000152015"
+  },
+  {
+    "cod_grupo": "COL0011189",
+    "nro": "00000000011189",
+    "nombre": "GRUPO DE ESTUDIOS EN BIODIVERSIDAD",
+    "lider": "VICTOR HUGO SERRANO CARDOZO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011189"
+  },
+  {
+    "cod_grupo": "COL0010799",
+    "nro": "00000000010799",
+    "nombre": "GRUPO DE OPTICA Y TRATAMIENTO DE SENALES",
+    "lider": "RAFAEL ANGEL TORRES AMARIS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010799"
+  },
+  {
+    "cod_grupo": "COL0012462",
+    "nro": "00000000012462",
+    "nombre": "POLITEIA",
+    "lider": "MILTON DIONICIO LOZANO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012462"
+  },
+  {
+    "cod_grupo": "COL0017389",
+    "nro": "00000000017389",
+    "nombre": "CIEMPIES",
+    "lider": "SERGIO FERNANDO GARCES ARIAS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017389"
+  },
+  {
+    "cod_grupo": "COL0025639",
+    "nro": "00000000025639",
+    "nombre": "GRUPO DE BIOQUIMICA TEORICA",
+    "lider": "MARTHA CECILIA DAZA ESPINOSA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000025639"
+  },
+  {
+    "cod_grupo": "COL0009959",
+    "nro": "00000000009959",
+    "nombre": "GRUPO DE INVESTIGACION EN MATEMATICAS DE LA UIS",
+    "lider": "MICHAEL ALEXANDER RINCON  VILLAMIZAR",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009959"
+  },
+  {
+    "cod_grupo": "COL0010869",
+    "nro": "00000000010869",
+    "nombre": "GRUPO DE INVESTIGACION EN RECURSOS HIDRICOS Y SANEAMIENTO AMBIENTAL",
+    "lider": "EDGAR RICARDO OVIEDO OCANA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010869"
+  },
+  {
+    "cod_grupo": "COL0008915",
+    "nro": "00000000008915",
+    "nombre": "GRUPO DE INVESTIGACIONES EN CORROSION",
+    "lider": "DARIO YESID PENA BALLESTEROS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008915"
+  },
+  {
+    "cod_grupo": "COL0224212",
+    "nro": "00000000224212",
+    "nombre": "DERECHO Y CIENCIA POLITICA",
+    "lider": "JAVIER ALEJANDRO ACEVEDO GUERRERO",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000224212"
+  },
+  {
+    "cod_grupo": "COL0109177",
+    "nro": "00000000109177",
+    "nombre": "OBSERVATORIO REGIONAL DE DESARROLLO HUMANO SOSTENIBLE",
+    "lider": "AMANDA PATRICIA AMOROCHO PEREZ",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000109177"
+  },
+  {
+    "cod_grupo": "COL0043665",
+    "nro": "00000000043665",
+    "nombre": "FISIOTERAPIA INTEGRAL",
+    "lider": "GINA MAURETH BUSTOS LEON",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000043665"
+  },
+  {
+    "cod_grupo": "COL0031207",
+    "nro": "00000000031207",
+    "nombre": "GRUPO OPALO (GRUPO EN OPTIMIZACION Y ORGANIZACION DE SISTEMAS PRODUCTIVOS,  ADMINISTRATIVOS Y LOGISTICOS)",
+    "lider": "CARLOS EDUARDO DIAZ BOHORQUEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000031207"
+  },
+  {
+    "cod_grupo": "COL0010279",
+    "nro": "00000000010279",
+    "nombre": "GRUPO DE INVESTIGACION EN RELATIVIDAD Y GRAVITACION",
+    "lider": "LUIS ALBERTO NUNEZ DE VILLAV MARTINEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010279"
+  },
+  {
+    "cod_grupo": "COL0089314",
+    "nro": "00000000089314",
+    "nombre": "GLOTTA: GRUPO DE INVESTIGACIONES  EN DIDACTICAS DEL LENGUAJE, LAS LENGUAS Y LA LITERATURA",
+    "lider": "GIOHANNY OLAVE ARIAS",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000089314"
+  },
+  {
+    "cod_grupo": "COL0028319",
+    "nro": "00000000028319",
+    "nombre": "CENTRO DE INVESTIGACION DE MERCADEO Y PUBLICIDAD - CIMEP",
+    "lider": "MARTHA PATRICIA YANES RAMIREZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028319"
+  },
+  {
+    "cod_grupo": "COL0009494",
+    "nro": "00000000009494",
+    "nombre": "GRUPO DE INVESTIGACION EN BIOTECNOLOGIA Y GESTION AMBIENTAL (IBGA)",
+    "lider": "JORGE HERNANDEZ TORRES",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009494"
+  },
+  {
+    "cod_grupo": "COL0135847",
+    "nro": "00000000135847",
+    "nombre": "CENTRO DE CROMATOGRAFIA Y ESPECTROMETRIA DE MASAS CROM-MASS",
+    "lider": "ELENA STASHENKO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000135847"
+  },
+  {
+    "cod_grupo": "COL0005421",
+    "nro": "00000000005421",
+    "nombre": "GEOMATICA, GESTION Y OPTIMIZACION DE SISTEMAS",
+    "lider": "JHON JAIRO CACERES JIMENEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005421"
+  },
+  {
+    "cod_grupo": "COL0047922",
+    "nro": "00000000047922",
+    "nombre": "GRUPO SIMON DE INVESTIGACIONES EN MODELAMIENTO Y SIMULACION",
+    "lider": "HUGO HERNANDO ANDRADE SOSA",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000047922"
+  },
+  {
+    "cod_grupo": "COL0008165",
+    "nro": "00000000008165",
+    "nombre": "GRUPO DE ESTUDIO E INVESTIGACION EN TECNOLOGIAS Y EDUCACION GENTE",
+    "lider": "JUAN CARLOS BARBOSA HERRERA",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008165"
+  },
+  {
+    "cod_grupo": "COL0076119",
+    "nro": "00000000076119",
+    "nombre": "GRUPO DE INVESTIGACION EN ECONOMIA APLICADA Y REGULACION - EMAR",
+    "lider": "LUIS ALEJANDRO PALACIO GARCIA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000076119"
+  },
+  {
+    "cod_grupo": "COL0171511",
+    "nro": "00000000171511",
+    "nombre": "GRUPO DE DESARROLLO EXPERIMENTAL Y TECNOLOGICO GEDETEC",
+    "lider": "EDINSON JAVIER VELANDIA PLATA",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000171511"
+  },
+  {
+    "cod_grupo": "COL0032741",
+    "nro": "00000000032741",
+    "nombre": "GRUPO DE INVESTIGACION EN PATOLOGIA ESTRUCTURAL, FUNCIONAL Y CLINICA",
+    "lider": "ERNESTO GARCIA AYALA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032741"
+  },
+  {
+    "cod_grupo": "COL0067934",
+    "nro": "00000000067934",
+    "nombre": "GRUPO DE INVESTIGACION EN SISTEMAS DINAMICOS MULTIFISICOS, CONTROL Y ROBOTICA; GRUPO DE INVESTIGACION DICBOT",
+    "lider": "CARLOS BORRAS PINILLA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000067934"
+  },
+  {
+    "cod_grupo": "COL0079059",
+    "nro": "00000000079059",
+    "nombre": "PROINAPSA UIS",
+    "lider": "BLANCA PATRICIA MANTILLA URIBE",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000079059"
+  },
+  {
+    "cod_grupo": "COL0005305",
+    "nro": "00000000005305",
+    "nombre": "FISICA COMPUTACIONAL EN MATERIA CONDENSADA (FICOMACO)",
+    "lider": "HAROLD PAREDES GUTIERREZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005305"
+  },
+  {
+    "cod_grupo": "COL0010038",
+    "nro": "00000000010038",
+    "nombre": "GRUPO DE INVESTIGACION EN GEOLOGIA BASICA Y APLICADA",
+    "lider": "JUAN DIEGO COLEGIAL GUTIERREZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010038"
+  },
+  {
+    "cod_grupo": "COL0023419",
+    "nro": "00000000023419",
+    "nombre": "TIEMPO CERO",
+    "lider": "JORGE FRANCISCO MALDONADO SERRANO",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000023419"
+  },
+  {
+    "cod_grupo": "COL0037209",
+    "nro": "00000000037209",
+    "nombre": "GRUPO DE INVESTIGACION PROMETEO",
+    "lider": "MARTHA LIGIA PENA VILLAMIZAR",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000037209"
+  },
+  {
+    "cod_grupo": "COL0034719",
+    "nro": "00000000034719",
+    "nombre": "HISTORIA, ARCHIVISTICA Y REDES DE INVESTIGACION - HARED",
+    "lider": "HELWAR HERNANDO FIGUEROA SALAMANCA",
+    "avalado_por": "5 de 9",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000034719"
+  },
+  {
+    "cod_grupo": "COL0009977",
+    "nro": "00000000009977",
+    "nombre": "GRUPO DE INVESTIGACION EN MATERIALES DE CONSTRUCCION Y ESTRUCTURAS INME",
+    "lider": "ALVARO VIVIESCAS JAIMES",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009977"
+  },
+  {
+    "cod_grupo": "COL0020731",
+    "nro": "00000000020731",
+    "nombre": "GINO",
+    "lider": "CARLOS HERNAN BECERRA MOJICA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000020731"
+  },
+  {
+    "cod_grupo": "COL0018831",
+    "nro": "00000000018831",
+    "nombre": "GRUPO MODELAMIENTO DE PROCESOS DE HIDROCARBUROS",
+    "lider": "EDWAR HERNANDO HERRERA OTERO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000018831"
+  },
+  {
+    "cod_grupo": "COL0171889",
+    "nro": "00000000171889",
+    "nombre": "GRUPO DE INVESTIGACION EN PSIQUIATRIA",
+    "lider": "LINA MARIA VERA CALA",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000171889"
+  },
+  {
+    "cod_grupo": "COL0091429",
+    "nro": "00000000091429",
+    "nombre": "GRUPO DE INVESTIGACION EN ROBOTICA DE SERVICIO Y DISENO INDUSTRIAL GIROD",
+    "lider": "JOHN FABER ARCHILA DIAZ",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000091429"
+  },
+  {
+    "cod_grupo": "COL0169059",
+    "nro": "00000000169059",
+    "nombre": "GRUPO DE INVESTIGACION EN COMPUESTOS ORGANICOS DE INTERES MEDICINAL (CODEIM)",
+    "lider": "ARNOLD RAFAEL ROMERO BOHORQUEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000169059"
+  },
+  {
+    "cod_grupo": "COL0011115",
+    "nro": "00000000011115",
+    "nombre": "GRUPO DE INVESTIGACION EN TECNOLOGIAS DE VALORIZACION DE RESIDUOS Y FUENTES AGRICOLAS E INDUSTRIALES PARA LA SUSTENTABILIDAD ENERGETICA - INTERFASE",
+    "lider": "DEBORA ALCIDA NABARLATZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011115"
+  },
+  {
+    "cod_grupo": "COL0192478",
+    "nro": "00000000192478",
+    "nombre": "GRUPO DE INVESTIGACION EN FENOMENOS INTERFACIALES, REOLOGIA Y SIMULACION DE TRANSPORTE (FIRST)",
+    "lider": "RONALD ALFONSO MERCADO OJEDA",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000192478"
+  },
+  {
+    "cod_grupo": "COL0154744",
+    "nro": "00000000154744",
+    "nombre": "COMPUTO AVANZADO Y A GRAN ESCALA",
+    "lider": "GABRIEL RODRIGO PEDRAZA FERREIRA",
+    "avalado_por": "3 de 5",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000154744"
+  },
+  {
+    "cod_grupo": "COL0037855",
+    "nro": "00000000037855",
+    "nombre": "MOVIMIENTO, ARMONIA Y VIDA",
+    "lider": "MARIA SOLANGE PATINO SEGURA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000037855"
+  },
+  {
+    "cod_grupo": "COL0008979",
+    "nro": "00000000008979",
+    "nombre": "GRUPO DE INVESTIGACIONES EN MINERALES, BIOHIDROMETALURGIA Y AMBIENTE",
+    "lider": "JULIO ANDRES PEDRAZA AVELLA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008979"
+  },
+  {
+    "cod_grupo": "COL0023976",
+    "nro": "00000000023976",
+    "nombre": "GRUPO DE INVESTIGACION EN DEMOGRAFIA, SALUD PUBLICA Y SISTEMAS DE SALUD - GUINDESS",
+    "lider": "MYRIAM RUIZ RODRIGUEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000023976"
+  },
+  {
+    "cod_grupo": "COL0010323",
+    "nro": "00000000010323",
+    "nombre": "GRUPO DE INVESTIGACION EN SISTEMAS DE ENERGIA ELECTRICA (GISEL)",
+    "lider": "CESAR ANTONIO DUARTE GUALDRON",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010323"
+  },
+  {
+    "cod_grupo": "COL0083849",
+    "nro": "00000000083849",
+    "nombre": "GRUPO DE INVESTIGACION EN MICROBIOLOGIA Y GENETICA",
+    "lider": "JORGE LUIS FUENTES LORENZO",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000083849"
+  },
+  {
+    "cod_grupo": "COL0038567",
+    "nro": "00000000038567",
+    "nombre": "BIOGEN",
+    "lider": "JHOALMIS SIERRA CASTRILLO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000038567"
+  },
+  {
+    "cod_grupo": "COL0019516",
+    "nro": "00000000019516",
+    "nombre": "GRUPO DE INVESTIGACION EN QUIMICA ESTRUCTURAL  (GIQUE)",
+    "lider": "JOSE ANTONIO HENAO MARTINEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019516"
+  },
+  {
+    "cod_grupo": "COL0210379",
+    "nro": "00000000210379",
+    "nombre": "GALILEO GRUPO DE INVESTIGACION EN PLANEAMIENTO ENERGETICO",
+    "lider": "FERNANDO ENRIQUE CALVETE GONZALEZ",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000210379"
+  },
+  {
+    "cod_grupo": "COL0012909",
+    "nro": "00000000012909",
+    "nombre": "LABORATORIO DE ESPECTROSCOPIA ATOMICA Y MOLECULAR",
+    "lider": "RAFAEL CABANZO HERNANDEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012909"
+  },
+  {
+    "cod_grupo": "COL0053741",
+    "nro": "00000000053741",
+    "nombre": "GRUPO DE INVESTIGACION  EN  HUMANIDADES- GUANE",
+    "lider": "LUZ MARY CASTELLON VALDEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000053741"
+  },
+  {
+    "cod_grupo": "COL0204677",
+    "nro": "00000000204677",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIAS AGRARIAS Y ECOLOGIA (GICAE)",
+    "lider": "JULIAN MAURICIO BOTERO LONDONO",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000204677"
+  },
+  {
+    "cod_grupo": "COL0041089",
+    "nro": "00000000041089",
+    "nombre": "GRUPO DE INVESTIGACION   DE ENFERMERIA-EVEREST",
+    "lider": "CLAUDIA TORRES CONTRERAS",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000041089"
+  },
+  {
+    "cod_grupo": "COL0084775",
+    "nro": "00000000084775",
+    "nombre": "ALCOM",
+    "lider": "HECTOR EDONIS PINEDO TAPIA",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000084775"
+  },
+  {
+    "cod_grupo": "COL0116359",
+    "nro": "00000000116359",
+    "nombre": "CIENCIAUDES",
+    "lider": "BERTILDA PEDRAZA CLAROS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000116359"
+  },
+  {
+    "cod_grupo": "COL0037935",
+    "nro": "00000000037935",
+    "nombre": "ESTUDIOS SOCIO-HUMANISTICOS",
+    "lider": "FABIAN BECERRA FUQUEN",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000037935"
+  },
+  {
+    "cod_grupo": "COL0122197",
+    "nro": "00000000122197",
+    "nombre": "EUREKA  DE INGENIERIA INDUSTRIAL UDES",
+    "lider": "CLAUDIA IVONNE ARAMBULA GARCIA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000122197"
+  },
+  {
+    "cod_grupo": "COL0057239",
+    "nro": "00000000057239",
+    "nombre": "DINAMICAS SECTORIALES",
+    "lider": "YUDY ADRIANA GAMBOA VESGA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000057239"
+  },
+  {
+    "cod_grupo": "COL0011222",
+    "nro": "00000000011222",
+    "nombre": "GRUPO DE INVESTIGACION EN GENETICA HUMANA UIS",
+    "lider": "CLARA INES VARGAS CASTELLANOS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011222"
+  },
+  {
+    "cod_grupo": "COL0005038",
+    "nro": "00000000005038",
+    "nombre": "FAMILIA, GENERO Y CONFLICTO",
+    "lider": "RODOLFO MANTILLA JACOME",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005038"
+  },
+  {
+    "cod_grupo": "COL0139078",
+    "nro": "00000000139078",
+    "nombre": "CARING",
+    "lider": "MARY LUZ  JAIMES VALENCIA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000139078"
+  },
+  {
+    "cod_grupo": "COL0077509",
+    "nro": "00000000077509",
+    "nombre": "GRUPO DE INVESTIGACION EN DESARROLLO DE SOFTWARE GISOFT",
+    "lider": "LESLEY FABIOLA BOHORQUEZ CHACON",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000077509"
+  },
+  {
+    "cod_grupo": "COL0026323",
+    "nro": "00000000026323",
+    "nombre": "GRUPO DE INVESTIGACION EN POLIMEROS",
+    "lider": "GUSTAVO EMILIO RAMIREZ CABALLERO",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000026323"
+  },
+  {
+    "cod_grupo": "COL0175842",
+    "nro": "00000000175842",
+    "nombre": "ESTUDIOS HISTORICOS EN REDES SOCIALES",
+    "lider": "BRENDA ESCOBAR GUZMAN",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000175842"
+  },
+  {
+    "cod_grupo": "COL0036876",
+    "nro": "00000000036876",
+    "nombre": "GRUPO DE INVESTIGACION EN BIOQUIMICA Y MICROBIOLOGIA",
+    "lider": "STELIA CAROLINA MENDEZ SANCHEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000036876"
+  },
+  {
+    "cod_grupo": "COL0032634",
+    "nro": "00000000032634",
+    "nombre": "GRUPO DE INVESTIGACION EN ENERGIA Y MEDIO AMBIENTE-GIEMA",
+    "lider": "MANUEL DEL JESUS MARTINEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032634"
+  },
+  {
+    "cod_grupo": "COL0053133",
+    "nro": "00000000053133",
+    "nombre": "GRUPO DE INVESTIGACION EN  BIOTECNOLOGIA AGROAMBIENTE Y SALUD-MICROBIOTA",
+    "lider": "BEATRIZ ELENA GUERRA SIERRA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000053133"
+  },
+  {
+    "cod_grupo": "COL0012079",
+    "nro": "00000000012079",
+    "nombre": "INNOTEC",
+    "lider": "LUIS EDUARDO BECERRA ARDILA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012079"
+  },
+  {
+    "cod_grupo": "COL0050739",
+    "nro": "00000000050739",
+    "nombre": "CULTURA Y NARRACION EN COLOMBIA",
+    "lider": "LUIS FERNANDO AREVALO VIVEROS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000050739"
+  },
+  {
+    "cod_grupo": "COL0019703",
+    "nro": "00000000019703",
+    "nombre": "FINANCE & MANAGEMENT",
+    "lider": "RODOLFO MOSQUERA NAVARRO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019703"
+  },
+  {
+    "cod_grupo": "COL0009538",
+    "nro": "00000000009538",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIA POLITICA",
+    "lider": "MARIA EUGENIA BONILLA OVALLOS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009538"
+  },
+  {
+    "cod_grupo": "COL0034899",
+    "nro": "00000000034899",
+    "nombre": "GRUPO DE INVESTIGACIONES EDUCATIVAS ATENEA",
+    "lider": "YOLIMA IVONNE BELTRAN VILLAMIZAR",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000034899"
+  },
+  {
+    "cod_grupo": "COL0049382",
+    "nro": "00000000049382",
+    "nombre": "GRUPO DE INVESTIGACION EN MANEJO CLINICO -CLINIUDES-",
+    "lider": "ANA ELVIRA FARFAN GARCIA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000049382"
+  },
+  {
+    "cod_grupo": "COL0046021",
+    "nro": "00000000046021",
+    "nombre": "CALIDAD DE VIDA Y SALUD PUBLICA",
+    "lider": "MONICA MOJICA PERILLA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000046021"
+  },
+  {
+    "cod_grupo": "COL0026181",
+    "nro": "00000000026181",
+    "nombre": "TRANSDISCIPLINARIEDAD, CULTURA Y POLITICA",
+    "lider": "JULIO EDUARDO BENAVIDES CAMPOS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000026181"
+  },
+  {
+    "cod_grupo": "COL0066786",
+    "nro": "00000000066786",
+    "nombre": "GIFO: GRUPO DE INVESTIGACION EN FINANZAS Y OPTIMIZACION",
+    "lider": "MARIA EUGENIA SERRANO ACEVEDO",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000066786"
+  },
+  {
+    "cod_grupo": "COL0004157",
+    "nro": "00000000004157",
+    "nombre": "EDUCACION Y LENGUAJE",
+    "lider": "ANA MARIA BAUTISTA VILLAMIZAR",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004157"
+  },
+  {
+    "cod_grupo": "COL0029488",
+    "nro": "00000000029488",
+    "nombre": "GRUPO DE INVESTIGACION EN INSTITUCIONES POLITICAS Y OPINION PUBLICA IEP - UNAB",
+    "lider": "JOHANA REYES JAIMES",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000029488"
+  },
+  {
+    "cod_grupo": "COL0068009",
+    "nro": "00000000068009",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIAS DE LA INGENIERIA, TECNOLOGIA E INNOVACION INDUSTRIAL (GICITII)",
+    "lider": "CARLOS JULIO ARIZMENDI PEREIRA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000068009"
+  },
+  {
+    "cod_grupo": "COL0071561",
+    "nro": "00000000071561",
+    "nombre": "PRESERVACION E INTERCAMBIO DIGITAL DE INFORMACION Y CONOCIMIENTO - PRISMA",
+    "lider": "ROMAN EDUARDO SARMIENTO PORRAS",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000071561"
+  },
+  {
+    "cod_grupo": "COL0010539",
+    "nro": "00000000010539",
+    "nombre": "GRUPO DE INVESTIGACION SOBRE DESARROLLO REGIONAL Y ORDENAMIENTO TERRITORIAL",
+    "lider": "HECTOR LUIS  ROMERO  VALBUENA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010539"
+  },
+  {
+    "cod_grupo": "COL0056206",
+    "nro": "00000000056206",
+    "nombre": "GRINFER",
+    "lider": "DIANA CAROLINA TIGA LOZA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000056206"
+  },
+  {
+    "cod_grupo": "COL0072596",
+    "nro": "00000000072596",
+    "nombre": "ECUACIONES DIFERENCIALES Y ANALISIS DIFUSO",
+    "lider": "JHEAN ELEISON PEREZ LOPEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000072596"
+  },
+  {
+    "cod_grupo": "COL0227644",
+    "nro": "00000000227644",
+    "nombre": "GRUPO DE ESTUDIOS CUERPO, ACTIVIDAD FISICA Y DEPORTE GECAFD",
+    "lider": "JORGE ENRIQUE BUITRAGO ESPITIA",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000227644"
+  },
+  {
+    "cod_grupo": "COL0148012",
+    "nro": "00000000148012",
+    "nombre": "A TEMPO",
+    "lider": "MANUEL EDUARDO MEJIA SERRANO",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000148012"
+  },
+  {
+    "cod_grupo": "COL0009583",
+    "nro": "00000000009583",
+    "nombre": "GRUPO DE INVESTIGACION EN CONECTIVIDAD Y PROCESAMIENTO DE SENALES - CPS",
+    "lider": "CARLOS AUGUSTO FAJARDO ARIZA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009583"
+  },
+  {
+    "cod_grupo": "COL0024042",
+    "nro": "00000000024042",
+    "nombre": "GRUPO DE INVESTIGACION EN BIOMECANICA, COMUNIDAD Y NEURODESARROLLO -ENTROPIA",
+    "lider": "CARLY GABRIELA VERA FERNANDEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000024042"
+  },
+  {
+    "cod_grupo": "COL0132371",
+    "nro": "00000000132371",
+    "nombre": "TEORIA DEL DERECHO Y FORMACION JURIDICA",
+    "lider": "CARLOS ANDRES GONZALEZ LEON",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000132371"
+  },
+  {
+    "cod_grupo": "COL0004513",
+    "nro": "00000000004513",
+    "nombre": "ESTUDIO GENETICO DE ENFERMEDADES COMPLEJAS",
+    "lider": "MARIA CAROLINA PAEZ LEAL",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004513"
+  },
+  {
+    "cod_grupo": "COL0002493",
+    "nro": "00000000002493",
+    "nombre": "CIENCIAS APLICADAS",
+    "lider": "EDDY JOHANNA FAJARDO ORTIZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002493"
+  },
+  {
+    "cod_grupo": "COL0010092",
+    "nro": "00000000010092",
+    "nombre": "GRUPO DE INVESTIGACION EN PENSAMIENTO SISTEMICO",
+    "lider": "JORGE ANDRICK PARRA VALENCIA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010092"
+  },
+  {
+    "cod_grupo": "COL0011394",
+    "nro": "00000000011394",
+    "nombre": "GRUPO DE INVESTIGACION EN GEOFISICA Y GEOLOGIA APLICADA",
+    "lider": "DAYANA ANDREA SCHONWALDER ANGEL",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011394"
+  },
+  {
+    "cod_grupo": "COL0190642",
+    "nro": "00000000190642",
+    "nombre": "FENIXUDES",
+    "lider": "ELBA VIVIANA RUEDA ORDONEZ",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000190642"
+  },
+  {
+    "cod_grupo": "COL0156702",
+    "nro": "00000000156702",
+    "nombre": "GRUPO DE INVESTIGACION EN DISENO DE ALGORITMOS Y PROCESAMIENTO DE DATOS MULTIDIMENSIONALES",
+    "lider": "HENRY ARGUELLO FUENTES",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000156702"
+  },
+  {
+    "cod_grupo": "COL0002297",
+    "nro": "00000000002297",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIA Y TECNOLOGIA DE ALIMENTOS",
+    "lider": "CARLOS JESUS MUVDI NOVA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002297"
+  },
+  {
+    "cod_grupo": "COL0012435",
+    "nro": "00000000012435",
+    "nombre": "GRUPO DE INMUNOLOGIA Y EPIDEMIOLOGIA MOLECULAR",
+    "lider": "MARTHA LUCIA DIAZ GALVIS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012435"
+  },
+  {
+    "cod_grupo": "COL0004371",
+    "nro": "00000000004371",
+    "nombre": "EPIDEMIOLOGIA CLINICA",
+    "lider": "JURG NIEDERBACHER VELASQUEZ",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004371"
+  },
+  {
+    "cod_grupo": "COL0035707",
+    "nro": "00000000035707",
+    "nombre": "GENIO (GRUPO ESTRATEGICO EN INVESTIGACION ORGANIZACIONAL)",
+    "lider": "JOSE LUIS GARCES BAUTISTA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000035707"
+  },
+  {
+    "cod_grupo": "COL0014153",
+    "nro": "00000000014153",
+    "nombre": "OBSERVATORIO EPIDEMIOLOGICO DE NUTRICION Y ENFERMEDADES CRONICAS",
+    "lider": "OSCAR FERNANDO HERRAN FALLA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014153"
+  },
+  {
+    "cod_grupo": "COL0108984",
+    "nro": "00000000108984",
+    "nombre": "BIOTECNOLOGIA Y AMBIENTE",
+    "lider": "ALEXANDER MENESES JACOME",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000108984"
+  },
+  {
+    "cod_grupo": "COL0009609",
+    "nro": "00000000009609",
+    "nombre": "GRUPO DE INVESTIGACION EN CONTROL, ELECTRONICA, MODELADO Y SIMULACION - CEMOS",
+    "lider": "RODOLFO VILLAMIZAR MEJIA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009609"
+  },
+  {
+    "cod_grupo": "COL0002368",
+    "nro": "00000000002368",
+    "nombre": "CENTRO DE INVESTIGACIONES EN CATALISIS",
+    "lider": "VICTOR GABRIEL BALDOVINO MEDRANO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002368"
+  },
+  {
+    "cod_grupo": "COL0052762",
+    "nro": "00000000052762",
+    "nombre": "KAIROS-LAB",
+    "lider": "FERNANDA MARADEI GARCIA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000052762"
+  },
+  {
+    "cod_grupo": "COL0011259",
+    "nro": "00000000011259",
+    "nombre": "GRUPO DE INVESTIGACIONES HISTORICAS SOBRE EL ESTADO NACIONAL COLOMBIANO",
+    "lider": "NECTALI ARIZA ARIZA",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011259"
+  },
+  {
+    "cod_grupo": "COL0020446",
+    "nro": "00000000020446",
+    "nombre": "BIOLOGIA MOLECULAR Y BIOTECNOLOGIA",
+    "lider": "NOHORA JULIANA RUEDA FORERO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000020446"
+  },
+  {
+    "cod_grupo": "COL0005369",
+    "nro": "00000000005369",
+    "nombre": "FISICA Y TECNOLOGIA DEL PLASMA Y CORROSION",
+    "lider": "EDUARDO ALBERTO OROZCO OSPINO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005369"
+  },
+  {
+    "cod_grupo": "COL0016443",
+    "nro": "00000000016443",
+    "nombre": "TECNOLOGIAS DE INFORMACION",
+    "lider": "MARITZA LILIANA CALDERON BENAVIDES",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016443"
+  },
+  {
+    "cod_grupo": "COL0026842",
+    "nro": "00000000026842",
+    "nombre": "GRUPO NUEVAS TECNOLOGIAS - UDES",
+    "lider": "ADRIANA LORENA VEGA MOLINA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000026842"
+  },
+  {
+    "cod_grupo": "COL0002107",
+    "nro": "00000000002107",
+    "nombre": "CENTRO DE ESTUDIOS E INVESTIGACIONES AMBIENTALES",
+    "lider": "MARIANNY YAJAIRA COMBARIZA MONTANEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002107"
+  },
+  {
+    "cod_grupo": "COL0236877",
+    "nro": "00000000236877",
+    "nombre": "GRUPO DE INVESTIGACION EN DISENO Y MANUFACTURA - DIMA",
+    "lider": "OCTAVIO ANDRES GONZALEZ ESTRADA",
+    "avalado_por": "1 de 2",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000236877"
+  },
+  {
+    "cod_grupo": "COL0028874",
+    "nro": "00000000028874",
+    "nombre": "GRUPO DE INVESTIGACION EN DESARROLLO Y TECNOLOGIA DE NUEVOS MATERIALES",
+    "lider": "ANA EMILSE COY ECHEVERRIA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028874"
+  },
+  {
+    "cod_grupo": "COL0032231",
+    "nro": "00000000032231",
+    "nombre": "GRUPO DE INVESTIGACION EN POBLACION, AMBIENTE Y DESARROLLO, G-PAD",
+    "lider": "HECTOR MAURICIO ROJAS BETANCUR",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032231"
+  },
+  {
+    "cod_grupo": "COL0057212",
+    "nro": "00000000057212",
+    "nombre": "INTERFAZ",
+    "lider": "CLARA ISABEL LOPEZ GUALDRON",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000057212"
+  },
+  {
+    "cod_grupo": "COL0008011",
+    "nro": "00000000008011",
+    "nombre": "GRUPO DE INVESTIGACION EN ELECTROCARDIOGRAFIA",
+    "lider": "DIEGO RINCON CASTILLO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008011"
+  },
+  {
+    "cod_grupo": "COL0225559",
+    "nro": "00000000225559",
+    "nombre": "GRUPO DE ESTUDIOS CULTURALES GECUL",
+    "lider": "OMAR ALEJANDRO AFANADOR ORTIZ",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225559"
+  },
+  {
+    "cod_grupo": "COL0225597",
+    "nro": "00000000225597",
+    "nombre": "GRUPO DE INVESTIGACION EN PROCESOS DE APRENDIZAJE, MEDIACION TIC Y ALFABETIZACION TECNOLOGICA (PAMAT)",
+    "lider": "HEDILBERTO GRANADOS LOPEZ",
+    "avalado_por": "1 de 2",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225597"
+  },
+  {
+    "cod_grupo": "COL0031403",
+    "nro": "00000000031403",
+    "nombre": "GRUPO DE INVESTIGACION EN INGENIERIA DE SISTEMAS - GIDSAW",
+    "lider": "JONATHAN ARLEY MONSALVE SALAZAR",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000031403"
+  },
+  {
+    "cod_grupo": "COL0134071",
+    "nro": "00000000134071",
+    "nombre": "GRUPO DE INVESTIGACION EN VIOLENCIA Y DESARROLLO HUMANO - UDIPSI",
+    "lider": "JESUS ARMANDO DELGADO MEZA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000134071"
+  },
+  {
+    "cod_grupo": "COL0069115",
+    "nro": "00000000069115",
+    "nombre": "GRUPO DE INVESTIGACION EN DESARROLLO EMPRESARIAL COMPETITIVO - PORTER",
+    "lider": "YOUSELINE GARAVITO HERNANDEZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000069115"
+  },
+  {
+    "cod_grupo": "COL0225603",
+    "nro": "00000000225603",
+    "nombre": "GRUPO DE INVESTIGACION EN GESTION Y CONTROL CONTABLE INGESCON",
+    "lider": "ANGELA MARIA VARGAS ARIZA",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225603"
+  },
+  {
+    "cod_grupo": "COL0136998",
+    "nro": "00000000136998",
+    "nombre": "VIDOCQ",
+    "lider": "RICHARD LARROTTA CASTILLO",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000136998"
+  },
+  {
+    "cod_grupo": "COL0225569",
+    "nro": "00000000225569",
+    "nombre": "GRUPO DE INVESTIGACIONES JURIDICAS JEREMY BENTHAM",
+    "lider": "HERNAN ALBERTO MEJIA SANCHEZ",
+    "avalado_por": "1 de 2",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225569"
+  },
+  {
+    "cod_grupo": "COL0225579",
+    "nro": "00000000225579",
+    "nombre": "GRUPO DE INVESTIGACION DUNNING",
+    "lider": "HENRY FERNANDEZ PINTO",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225579"
+  },
+  {
+    "cod_grupo": "COL0228347",
+    "nro": "00000000228347",
+    "nombre": "INSIGHT",
+    "lider": "FRANKIN EDUARDO LOPEZ FLOREZ",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000228347"
+  },
+  {
+    "cod_grupo": "COL0137046",
+    "nro": "00000000137046",
+    "nombre": "GRUPO DE INVESTIGACION EN PRODUCTIVIDAD Y GESTION DE OPERACIONES -  SINERGIA",
+    "lider": "SONIA ISABEL POLO TRIANA",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000137046"
+  },
+  {
+    "cod_grupo": "COL0030469",
+    "nro": "00000000030469",
+    "nombre": "GRUPO DE INVESTIGACION EN ROBOTICA, CONTROL Y PROCESAMIENTO DE SENAL - GPS",
+    "lider": "MARIA FERNANDA RIVERA SANCLEMENTE",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000030469"
+  },
+  {
+    "cod_grupo": "COL0225588",
+    "nro": "00000000225588",
+    "nombre": "TRESDE - GRUPO DE INVESTIGACION EN DISENO INDUSTRIAL",
+    "lider": "ALAN STEYBYD QUINTERO BAYONA",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000225588"
+  },
+  {
+    "cod_grupo": "COL0210208",
+    "nro": "00000000210208",
+    "nombre": "GRUPO DE INVESTIGACION EN AMENAZAS, VULNERABILIDAD Y RIESGOS A FENOMENOS NATURALES QUE COLOCAN EN PELIGRO LA VIDA HUMANA Y LOS BIENES - AVR -",
+    "lider": "JOSE AGUSTIN VALLEJO BORDA",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000210208"
+  },
+  {
+    "cod_grupo": "COL0052252",
+    "nro": "00000000052252",
+    "nombre": "GRUPO DE INVESTIGACION EN DISENO, IMAGEN Y COMUNICACION VISUAL  -PALOSECO-",
+    "lider": "ABSALON RINCON MUNOZ",
+    "avalado_por": "1 de 1",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000052252"
+  },
+  {
+    "cod_grupo": "COL0071463",
+    "nro": "00000000071463",
+    "nombre": "GRUPO DE INVESTIGACION EN JURISPRUDENCIA Y ACTIVISMO CONSTITUCIONAL",
+    "lider": "AURA YOLIMA RODRIGUEZ BURBANO",
+    "avalado_por": "3 de 6",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000071463"
+  },
+  {
+    "cod_grupo": "COL0015259",
+    "nro": "00000000015259",
+    "nombre": "VIOLENCIA, LENGUAJE Y ESTUDIOS CULTURALES",
+    "lider": "CARLOS GERMAN CELIS ESTUPINAN",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000015259"
+  },
+  {
+    "cod_grupo": "COL0016882",
+    "nro": "00000000016882",
+    "nombre": "VARIACIONES ANATOMICAS Y BIOMECANICA TENDOMUSCULAR",
+    "lider": "FABIAN ALEJANDRO GOMEZ TORRES",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016882"
+  },
+  {
+    "cod_grupo": "COL0009439",
+    "nro": "00000000009439",
+    "nombre": "INVESTIGACIONES FOSCAL",
+    "lider": "PATRICIO LOPEZ JARAMILLO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009439"
+  },
+  {
+    "cod_grupo": "COL0009269",
+    "nro": "00000000009269",
+    "nombre": "BIOMEDICAL IMAGING, VISION AND LEARNING LABORATORY",
+    "lider": "FABIO MARTINEZ CARRILLO",
+    "avalado_por": "5 de 9",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009269"
+  },
+  {
+    "cod_grupo": "COL0031341",
+    "nro": "00000000031341",
+    "nombre": "OBSERVATORIO DE SALUD PUBLICA DE SANTANDER",
+    "lider": "PAUL ANTHONY CAMACHO LOPEZ",
+    "avalado_por": "2 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000031341"
+  },
+  {
+    "cod_grupo": "COL0119923",
+    "nro": "00000000119923",
+    "nombre": "GRUPO DE INVESTIGACIONES CLINICAS-UNAB",
+    "lider": "ALEJANDRO TELLO HERNANDEZ",
+    "avalado_por": "2 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000119923"
+  },
+  {
+    "cod_grupo": "COL0034521",
+    "nro": "00000000034521",
+    "nombre": "GRUPO DE INVESTIGACION EN CIRUGIA Y ESPECIALIDADES GRICES-UIS",
+    "lider": "JUAN PAULO SERRANO PASTRANA",
+    "avalado_por": "5 de 8",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000034521"
+  },
+  {
+    "cod_grupo": "COL0119781",
+    "nro": "00000000119781",
+    "nombre": "SAGRADO Y PROFANO. GRUPO DE ESTUDIOS SOBRE RELIGION, SOCIEDAD Y POLITICA",
+    "lider": "WILLIAM PLATA QUEZADA",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000119781"
+  },
+  {
+    "cod_grupo": "COL0005449",
+    "nro": "00000000005449",
+    "nombre": "GRUPO PARA LA RENOVACION EDUCATIVA DE LA MEDICINA INTERNA - GERMINA",
+    "lider": "BORIS EDUARDO VESGA ANGARITA",
+    "avalado_por": "5 de 8",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005449"
+  },
+  {
+    "cod_grupo": "COL0024579",
+    "nro": "00000000024579",
+    "nombre": "PAIDOS",
+    "lider": "JORGE RAUL GARCIA CORZO",
+    "avalado_por": "5 de 8",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000024579"
+  },
+  {
+    "cod_grupo": "COL0042505",
+    "nro": "00000000042505",
+    "nombre": "ANESTIDOC",
+    "lider": "SAUL ALVAREZ ROBLES",
+    "avalado_por": "4 de 9",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000042505"
+  },
+  {
+    "cod_grupo": "COL0001066",
+    "nro": "00000000001066",
+    "nombre": "CIBIMOL",
+    "lider": "ELENA STASHENKO",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001066"
+  },
+  {
+    "cod_grupo": "COL0010815",
+    "nro": "00000000010815",
+    "nombre": "CENTRO DE INVESTIGACIONES EN ENFERMEDADES TROPICALES (CINTROP)",
+    "lider": "JONNY EDWARD DUQUE LUNA",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010815"
+  },
+  {
+    "cod_grupo": "COL0052495",
+    "nro": "00000000052495",
+    "nombre": "CIMBIOS (CIENCIA DE MATERIALES BIOLOGICOS Y SEMICONDUCTORES)",
+    "lider": "DAVID ALEJANDRO MIRANDA MERCADO",
+    "avalado_por": "6 de 11",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000052495"
+  },
+  {
+    "cod_grupo": "COL0013709",
+    "nro": "00000000013709",
+    "nombre": "MICOLOGIA MEDICA Y EXPERIMENTAL",
+    "lider": "TONNY WILLIAMS NARANJO PRECIADO",
+    "avalado_por": "6 de 8",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013709"
+  },
+  {
+    "cod_grupo": "COL0033598",
+    "nro": "00000000033598",
+    "nombre": "GRUPO DE INVESTIGACION EN ESTABILIDAD DE POZO",
+    "lider": "EMILIANO  ARIZA LEON",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000033598"
+  },
+  {
+    "cod_grupo": "COL0041615",
+    "nro": "00000000041615",
+    "nombre": "GRUPO DE INVESTIGACION RECOBRO MEJORADO",
+    "lider": "SAMUEL FERNANDO MUNOZ NAVARRO",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000041615"
+  },
+  {
+    "cod_grupo": "COL0103629",
+    "nro": "00000000103629",
+    "nombre": "GRUPO DE INVESTIGACION EN COMUNICACION SOBRE CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "lider": "LIZANDRO ANGULO RINCON",
+    "avalado_por": "1 de 6",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000103629"
+  },
+  {
+    "cod_grupo": "COL0024392",
+    "nro": "00000000024392",
+    "nombre": "GRUPO AMBIENTAL DE INVESTIGACION APLICADA -GAIA UDES-",
+    "lider": "DIEGO RAFAEL JOYA CARDENAS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000024392"
+  },
+  {
+    "cod_grupo": "COL0120773",
+    "nro": "00000000120773",
+    "nombre": "CIENCIAS BASICAS Y APLICADAS PARA LA SOSTENIBILIDAD - CIBAS",
+    "lider": "INDIRA PAOLA HERNANDEZ PENARANDA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000120773"
+  },
+  {
+    "cod_grupo": "COL0040458",
+    "nro": "00000000040458",
+    "nombre": "SALUD-COMUNID-UDES SCU",
+    "lider": "RUTH ARALI MARTINEZ VEGA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000040458"
+  },
+  {
+    "cod_grupo": "COL0136906",
+    "nro": "00000000136906",
+    "nombre": "GRUPO DE INVESTIGACION EN DIDACTICA E INNOVACION EN EL APRENDIZAJE DE LAS CIENCIAS-FIELDS",
+    "lider": "JOSE ANDRES HERNANDEZ JIMENEZ",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000136906"
+  },
+  {
+    "cod_grupo": "COL0025783",
+    "nro": "00000000025783",
+    "nombre": "POLITICAS, SOCIABILIDADES Y REPRESENTACIONES HISTORICO-EDUCATIVAS",
+    "lider": "ALVARO ACEVEDO TARAZONA",
+    "avalado_por": "4 de 6",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000025783"
+  },
+  {
+    "cod_grupo": "COL0087632",
+    "nro": "00000000087632",
+    "nombre": "PRODUCCION ECOAMIGABLE DE CULTIVOS TROPICALES (PROECUT)",
+    "lider": "HERNAN JAIR ANDRADE CASTANEDA",
+    "avalado_por": "1 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000087632"
+  },
+  {
+    "cod_grupo": "COL0181115",
+    "nro": "00000000181115",
+    "nombre": "EDUMEDIA-3",
+    "lider": "DIEGO LEANDRO MARIN OSSA",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000181115"
+  },
+  {
+    "cod_grupo": "COL0006679",
+    "nro": "00000000006679",
+    "nombre": "CORPORACION PARA  LA INVESTIGACION TECNOLOGICA Y CIENTIFICA",
+    "lider": "CARLOS ALBERTO GUTIERREZ DE PI ROCHA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006679"
+  },
+  {
+    "cod_grupo": "COL0056199",
+    "nro": "00000000056199",
+    "nombre": "INFECCION E INMUNIDAD",
+    "lider": "JUAN CARLOS SEPULVEDA ARIAS",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000056199"
+  },
+  {
+    "cod_grupo": "COL0023116",
+    "nro": "00000000023116",
+    "nombre": "GRUPO POLIFENOLES",
+    "lider": "LUZ ANGELA VELOZA CASTIBLANCO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000023116"
+  },
+  {
+    "cod_grupo": "COL0067399",
+    "nro": "00000000067399",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIAS Y EDUCACION EN SALUD",
+    "lider": "DEISY YURLEY RODRIGUEZ SARMIENTO",
+    "avalado_por": "1 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000067399"
+  },
+  {
+    "cod_grupo": "COL0124905",
+    "nro": "00000000124905",
+    "nombre": "GIACODI - GRUPO DE INVESTIGACION EN ARTES, COMUNICACION Y DISENO.",
+    "lider": "MARIA CAMILA AMAYA HERNANDEZ",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000124905"
+  },
+  {
+    "cod_grupo": "COL0147051",
+    "nro": "00000000147051",
+    "nombre": "GRUPO DE CIENCIAS  APLICADAS",
+    "lider": "CARLOS ANDRES COLLAZOS MORALES",
+    "avalado_por": "3 de 4",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000147051"
+  },
+  {
+    "cod_grupo": "COL0143839",
+    "nro": "00000000143839",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIAS SOCIALES, HUMANIDADES Y EDUCACION - CISNHE",
+    "lider": "HECTOR ANDRES PAEZ ARDILA",
+    "avalado_por": "3 de 4",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000143839"
+  },
+  {
+    "cod_grupo": "COL0101615",
+    "nro": "00000000101615",
+    "nombre": "GRUPO DE INVESTIGACION EN GESTION INDUSTRIAL Y ADMINISTRATIVA",
+    "lider": "JULIAN DAVID SILVA RODRIGUEZ",
+    "avalado_por": "3 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000101615"
+  },
+  {
+    "cod_grupo": "COL0016775",
+    "nro": "00000000016775",
+    "nombre": "UNIDAD DE FITOSANIDAD Y CONTROL BIOLOGICO",
+    "lider": "JUAN CARLOS BEDOYA PEREZ",
+    "avalado_por": "4 de 11",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016775"
+  },
+  {
+    "cod_grupo": "COL0193269",
+    "nro": "00000000193269",
+    "nombre": "GRUPO DE INVESTIGACION EN TOMOGRAFIA COMPUTARIZADA PARA CARACTERIZACION DE YACIMIENTOS",
+    "lider": "NICOLAS SANTOS SANTOS",
+    "avalado_por": "4 de 11",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000193269"
+  },
+  {
+    "cod_grupo": "COL0021318",
+    "nro": "00000000021318",
+    "nombre": "PRODUCCION Y APLICACION DE CONOCIMIENTO EN SALUD - PRACCIS",
+    "lider": "JUAN CARLOS VILLAR CENTENO",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021318"
+  },
+  {
+    "cod_grupo": "COL0101357",
+    "nro": "00000000101357",
+    "nombre": "GRAVITACION Y MATEMATICA APLICADA",
+    "lider": "DAVID SIERRA PORTA",
+    "avalado_por": "1 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000101357"
+  },
+  {
+    "cod_grupo": "COL0082215",
+    "nro": "00000000082215",
+    "nombre": "INTEGRATED CIRCUIT AND SYSTEMS RESEARCH GROUP - ONCHIP",
+    "lider": "JAIME GUILLERMO BARRERO PEREZ",
+    "avalado_por": "4 de 10",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000082215"
+  },
+  {
+    "cod_grupo": "COL0066848",
+    "nro": "00000000066848",
+    "nombre": "INGEBIOCARIBE",
+    "lider": "ALEXIS RAFAEL MESSINO SOZA",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000066848"
+  },
+  {
+    "cod_grupo": "COL0021757",
+    "nro": "00000000021757",
+    "nombre": "EDUCACION, CIENCIAS SOCIALES Y HUMANAS",
+    "lider": "PATRICIA DEL PILAR MARTINEZ BARRIOS",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021757"
+  },
+  {
+    "cod_grupo": "COL0165748",
+    "nro": "00000000165748",
+    "nombre": "GIECEUL (GRUPO DE INVESTIGACION EN CIENCIAS DE LA EDUCACION Y AMBIENTE DE LA UNIVERSIDAD LIBRE)",
+    "lider": "SANDRA LILIANA CRISTANCHO CRUZ",
+    "avalado_por": "1 de 4",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000165748"
+  },
+  {
+    "cod_grupo": "COL0030881",
+    "nro": "00000000030881",
+    "nombre": "GRUPO DE INVESTIGACION EN SISTEMAS Y TECNOLOGIA DE LA INFORMACION STI",
+    "lider": "LUIS CARLOS GOMEZ FLOREZ",
+    "avalado_por": "4 de 8",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000030881"
+  },
+  {
+    "cod_grupo": "COL0102004",
+    "nro": "00000000102004",
+    "nombre": "NEUROCIENCIAS UDES",
+    "lider": "EWING RAFAEL DUQUE DIAZ",
+    "avalado_por": "2 de 6",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000102004"
+  },
+  {
+    "cod_grupo": "COL0201675",
+    "nro": "00000000201675",
+    "nombre": "GRUPO DE INVESTIGACION EN INGENIERIA AMBIENTAL Y RECURSOS NATURALES, GINAM",
+    "lider": "YURLEY PAOLA VILLABONA DURAN",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000201675"
+  },
+  {
+    "cod_grupo": "COL0210413",
+    "nro": "00000000210413",
+    "nombre": "GRUPO DE INVESTIGACION EN INNOVACION Y COMPETITIVIDAD EN ORGANIZACIONES",
+    "lider": "IVANHOE ROZO ROJAS",
+    "avalado_por": "1 de 3",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000210413"
+  },
+  {
+    "cod_grupo": "COL0067228",
+    "nro": "00000000067228",
+    "nombre": "CONFLICTOS SOCIALES, GENERO Y TERRITORIOS",
+    "lider": "AIDALUZ SANCHEZ ARISMENDI",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000067228"
+  },
+  {
+    "cod_grupo": "COL0046166",
+    "nro": "00000000046166",
+    "nombre": "GRUPO INTERDISCIPLINARIO DE ESTUDIOS SOBRE RELIGION, SOCIEDAD Y POLITICA",
+    "lider": "FABIO ALBERTO LOZANO VELASQUEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000046166"
+  },
+  {
+    "cod_grupo": "COL0091509",
+    "nro": "00000000091509",
+    "nombre": "ESPIRAL- GRUPO INTERDISCIPLINARIO DE INVESTIGACION EDUCATIVA",
+    "lider": "TATIANA INES NAVAS GOMEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000091509"
+  },
+  {
+    "cod_grupo": "COL0109309",
+    "nro": "00000000109309",
+    "nombre": "INVESTIGACION EN DESARROLLO HUMANO",
+    "lider": "OSCAR MAURICIO PABON SERRANO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000109309"
+  },
+  {
+    "cod_grupo": "COL0008889",
+    "nro": "00000000008889",
+    "nombre": "GRUPO DE INVESTIGACIONES DE LA FACULTAD DE ARQUITECTURA DE LA UNIVERSIDAD SANTO TOMAS, SECCIONAL BUCARAMANGA - GINVEARQUI",
+    "lider": "FABIO ANDRES LIZCANO PRADA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008889"
+  },
+  {
+    "cod_grupo": "COL0119665",
+    "nro": "00000000119665",
+    "nombre": "GRUPO DE INVESTIGACION EN NUEVOS MATERIALES Y ENERGIAS ALTERNATIVAS - GINMEA",
+    "lider": "ALIX ESTELA YUSARA CONTRERAS GOMEZ",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000119665"
+  },
+  {
+    "cod_grupo": "COL0085567",
+    "nro": "00000000085567",
+    "nombre": "GRUPO DE INVESTIGACIONES AMBIENTALES PARA EL DESARROLLO SOSTENIBLE - GIADS",
+    "lider": "MARTHA CERVANTES DIAZ",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000085567"
+  },
+  {
+    "cod_grupo": "COL0019955",
+    "nro": "00000000019955",
+    "nombre": "CIENCIA E INGENIERIA DE MATERIALES",
+    "lider": "FABIO CASTILLEJO NIETO",
+    "avalado_por": "1 de 2",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019955"
+  },
+  {
+    "cod_grupo": "COL0205656",
+    "nro": "00000000205656",
+    "nombre": "GRUPO DE INVESTIGACION CESCO (CIVIL ENGINEERING AND SUSTAINABLE CONSTRUCTION)",
+    "lider": "LUIS ALFREDO ARENAS SAAVEDRA",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000205656"
+  },
+  {
+    "cod_grupo": "COL0084274",
+    "nro": "00000000084274",
+    "nombre": "GRUPO ESTADO, DERECHO Y POLITICAS PUBLICAS",
+    "lider": "CESAR AUGUSTO ROMERO MOLINA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000084274"
+  },
+  {
+    "cod_grupo": "COL0032287",
+    "nro": "00000000032287",
+    "nombre": "GESTION GERENCIAL",
+    "lider": "JULIAN DAVID SILVA RODRIGUEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032287"
+  },
+  {
+    "cod_grupo": "COL0035019",
+    "nro": "00000000035019",
+    "nombre": "GRUPO DE EDUCACION  MATEMATICA EDUMAT UIS",
+    "lider": "JORGE ENRIQUE FIALLO LEAL",
+    "avalado_por": "4 de 7",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000035019"
+  },
+  {
+    "cod_grupo": "COL0093101",
+    "nro": "00000000093101",
+    "nombre": "GRUPO DE INVESTIGACION SALUD, REHABILITACION Y TRABAJO SARET",
+    "lider": "EDWING ALBERTO URREA VEGA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000093101"
+  },
+  {
+    "cod_grupo": "COL0030308",
+    "nro": "00000000030308",
+    "nombre": "INGENIERIA BIOMEDICA - GIIB_UMB",
+    "lider": "OSCAR LIBARDO RODRIGUEZ MONTANO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000030308"
+  },
+  {
+    "cod_grupo": "COL0083319",
+    "nro": "00000000083319",
+    "nombre": "SISTEMA ESTOMATOGNATICO Y MORFOFISIOLOGIA - SEMF",
+    "lider": "ANGELICA MARIA CARDENAS  GUTIERRREZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000083319"
+  },
+  {
+    "cod_grupo": "COL0124469",
+    "nro": "00000000124469",
+    "nombre": "SER, CULTURA Y MOVIMIENTO",
+    "lider": "LUIS GABRIEL RANGEL CABALLERO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000124469"
+  },
+  {
+    "cod_grupo": "COL0029521",
+    "nro": "00000000029521",
+    "nombre": "EJERCICIO FISICO Y DEPORTE",
+    "lider": "MAURICIO JAVIER PRADA ROZO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000029521"
+  },
+  {
+    "cod_grupo": "COL0029497",
+    "nro": "00000000029497",
+    "nombre": "GRUPO DE  INVETIGACION EN PROCESOS DE INTERRELACION COMUNICATIVA",
+    "lider": "ALBA FRANCY SUAREZ MENDEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000029497"
+  },
+  {
+    "cod_grupo": "COL0082055",
+    "nro": "00000000082055",
+    "nombre": "CUIDADO INTEGRAL DE LA SALUD HUMANA",
+    "lider": "CLAUDIA PATRICIA TACUMA PRADA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000082055"
+  },
+  {
+    "cod_grupo": "COL0028809",
+    "nro": "00000000028809",
+    "nombre": "GRUPO DE INVESTIGACION BIO-PSIQUISMO Y SOCIEDAD",
+    "lider": "CARLOS ANDRES CALDAS QUINTERO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028809"
+  },
+  {
+    "cod_grupo": "COL0000569",
+    "nro": "00000000000569",
+    "nombre": "APLICABILIDAD TECNOLOGICA",
+    "lider": "FABIAN CAMILO CASTRO  RIVEROS",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000569"
+  },
+  {
+    "cod_grupo": "COL0173249",
+    "nro": "00000000173249",
+    "nombre": "GICRIM UMB",
+    "lider": "EDILMA SANABRIA ESPANOL",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000173249"
+  },
+  {
+    "cod_grupo": "COL0003991",
+    "nro": "00000000003991",
+    "nombre": "SISTEMAS Y RECURSOS AMBIENTALES SOSTENIBLES SYRAS",
+    "lider": "DAVID ERNESTO RODRIGUEZ VIVAS",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003991"
+  },
+  {
+    "cod_grupo": "COL0028981",
+    "nro": "00000000028981",
+    "nombre": "GITIS (GRUPO DE INVESTIGACION EN TELECOMUNICACIONES E INGENIERIA DE SOFTWARE)",
+    "lider": "HECTOR MIGUEL VARGAS GARCIA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028981"
+  },
+  {
+    "cod_grupo": "COL0156542",
+    "nro": "00000000156542",
+    "nombre": "EDUCACION, CULTURA Y SUBJETIVIDADES (EDCUS)",
+    "lider": "DIANA CAROLINA ARDILA LUNA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000156542"
+  },
+  {
+    "cod_grupo": "COL0027142",
+    "nro": "00000000027142",
+    "nombre": "REC - REFLEXIONES EN TORNO A LA PRODUCCION CULTURAL",
+    "lider": "DIANA CAROLINA ARDILA LUNA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000027142"
+  },
+  {
+    "cod_grupo": "COL0043253",
+    "nro": "00000000043253",
+    "nombre": "GRUPO INTERDISCIPLINARIO DE INVESTIGACIONES EPIDEMIOLOGICAS EN EL SISTEMA VISUAL.GIESVI",
+    "lider": "DIANA CRISTINA PALENCIA FLOREZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000043253"
+  },
+  {
+    "cod_grupo": "COL0024599",
+    "nro": "00000000024599",
+    "nombre": "SIB- SALUD INTEGRAL BUCAL",
+    "lider": "MARTHA JULIANA RODRIGUEZ GOMEZ",
+    "avalado_por": "3 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000024599"
+  },
+  {
+    "cod_grupo": "COL0146081",
+    "nro": "00000000146081",
+    "nombre": "GRUPO DE CIENCIAS  BASICAS  Y LABORATORIOS",
+    "lider": "CARLOS ANDRES COLLAZOS MORALES",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000146081"
+  },
+  {
+    "cod_grupo": "COL0080696",
+    "nro": "00000000080696",
+    "nombre": "GRUPO DE INVESTIGACION EN SISTEMAS Y TECNOLOGIAS BIOMEDICAS",
+    "lider": "RICARDO ANDRES DIAZ SUAREZ",
+    "avalado_por": "2 de 2",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000080696"
+  },
+  {
+    "cod_grupo": "COL0051872",
+    "nro": "00000000051872",
+    "nombre": "ECONOMIA SOCIAL Y DESARROLLO EMPRESARIAL",
+    "lider": "LEONARDO JAVIER CARABALLO",
+    "avalado_por": "2 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000051872"
+  },
+  {
+    "cod_grupo": "COL0218251",
+    "nro": "00000000218251",
+    "nombre": "BIOTECLAB",
+    "lider": "JAIRO FERNANDO PICON PENA",
+    "avalado_por": "1 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000218251"
+  },
+  {
+    "cod_grupo": "COL0026869",
+    "nro": "00000000026869",
+    "nombre": "DERECHO, JUSTICIA Y DESARROLLO GLOBAL",
+    "lider": "ANDRES FERNANDO GUERRERO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000026869"
+  },
+  {
+    "cod_grupo": "COL0027419",
+    "nro": "00000000027419",
+    "nombre": "TERAPIAS ALTERNATIVAS",
+    "lider": "MONICA PAOLA MURCIA  DONCEL",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000027419"
+  },
+  {
+    "cod_grupo": "COL0023751",
+    "nro": "00000000023751",
+    "nombre": "CUIDADO CARDIORRESPIRATORIO",
+    "lider": "LAURA VANESSA RODRIGUEZ MENDOZA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000023751"
+  },
+  {
+    "cod_grupo": "COL0029719",
+    "nro": "00000000029719",
+    "nombre": "BIOMECANICA Y FISIOTERAPIA MUSCULOESQUELETICA Y TEGUMENTARIA",
+    "lider": "MONICA PAOLA MURCIA  DONCEL",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000029719"
+  },
+  {
+    "cod_grupo": "COL0028776",
+    "nro": "00000000028776",
+    "nombre": "NEUROREHABILITACION",
+    "lider": "MONICA PAOLA MURCIA  DONCEL",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028776"
+  },
+  {
+    "cod_grupo": "COL0123505",
+    "nro": "00000000123505",
+    "nombre": "GRUPO DE INVESTIGACION PARA LA INTEGRACION Y GLOBALIZACION DE LOS NEGOCIOS - INGLONEG",
+    "lider": "ALFREDO ENRIQUE SANABRIA  OSPINO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000123505"
+  },
+  {
+    "cod_grupo": "COL0047987",
+    "nro": "00000000047987",
+    "nombre": "UNITEL",
+    "lider": "DOLLY SMITH FLOREZ MORENO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000047987"
+  },
+  {
+    "cod_grupo": "COL0032859",
+    "nro": "00000000032859",
+    "nombre": "OCUPACION HUMANA",
+    "lider": "LAURA VANESSA RODRIGUEZ MENDOZA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032859"
+  },
+  {
+    "cod_grupo": "COL0153209",
+    "nro": "00000000153209",
+    "nombre": "GRUPO DE INVESTIGACION EN CIENCIAS BASICAS Y APLICADAS (GICIBAYA)",
+    "lider": "VLADIMIR PLATA CHAVEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000153209"
+  },
+  {
+    "cod_grupo": "COL0120399",
+    "nro": "00000000120399",
+    "nombre": "INVESTIGACION PARA EL DESARROLLO CONTABLE - INDERCON",
+    "lider": "ALEJANDRO ACEVEDO AMOROCHO",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000120399"
+  },
+  {
+    "cod_grupo": "COL0114678",
+    "nro": "00000000114678",
+    "nombre": "GRUPO DE INVESTIGACION EN CALIDAD Y PRODUCTIVIDAD, CAYPRO",
+    "lider": "PRUDENCIA MEDINA MONTERROSA",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000114678"
+  },
+  {
+    "cod_grupo": "COL0051077",
+    "nro": "00000000051077",
+    "nombre": "GRUPO DE INVESTIGACION EN ADMINISTRACION DE EMPRESAS AGROINDUSTRIALES USTAGRI",
+    "lider": "DIANA ASTRID BUITRAGO NUNEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000051077"
+  },
+  {
+    "cod_grupo": "COL0087839",
+    "nro": "00000000087839",
+    "nombre": "GRUPO ESTRATEGICO PARA EL MEJORAMIENTO APLICADO (GEMAS)",
+    "lider": "LUIS EDUARDO ORTIZ OSPINO",
+    "avalado_por": "3 de 4",
+    "estado": "CATEGORIA A1",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000087839"
+  },
+  {
+    "cod_grupo": "COL0032492",
+    "nro": "00000000032492",
+    "nombre": "GRUPO NACIONAL DE INVESTIGACION EN ECOFISIOLOGIA VEGETAL & ECOSISTEMAS TERRESTRES-GIEFIVET",
+    "lider": "NELSON RODRIGUEZ LOPEZ",
+    "avalado_por": "4 de 8",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000032492"
+  },
+  {
+    "cod_grupo": "COL0005851",
+    "nro": "00000000005851",
+    "nombre": "GRUPO DE ESTUDIO DEL DOLOR",
+    "lider": "ESPERANZA HERRERA VILLABONA",
+    "avalado_por": "4 de 8",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005851"
+  },
+  {
+    "cod_grupo": "COL0057606",
+    "nro": "00000000057606",
+    "nombre": "GUATAPURI (GRUPO DE INVESTIGACION Y ESTUDIOS SOCIOCULTURALES)",
+    "lider": "HERMES EMILIO MARTINEZ BARRIOS",
+    "avalado_por": "5 de 9",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000057606"
+  },
+  {
+    "cod_grupo": "COL0015025",
+    "nro": "00000000015025",
+    "nombre": "PRODUCCION, ESTRUCTURA Y APLICACION DE BIOMOLECULAS",
+    "lider": "AMANDA LUCIA MORA MARTINEZ",
+    "avalado_por": "2 de 3",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000015025"
+  },
+  {
+    "cod_grupo": "COL0137189",
+    "nro": "00000000137189",
+    "nombre": "DERECHO, PENSAMIENTO Y SOCIEDAD",
+    "lider": "CLAUDIA MARIANA MORENO CARDENAS",
+    "avalado_por": "3 de 8",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000137189"
+  },
+  {
+    "cod_grupo": "COL0102309",
+    "nro": "00000000102309",
+    "nombre": "NANOTECNOLOGIA Y GESTION SOSTENIBLE NANOSOST-UP",
+    "lider": "OSCAR ORLANDO ORTIZ RODRIGUEZ",
+    "avalado_por": "2 de 5",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000102309"
+  },
+  {
+    "cod_grupo": "COL0222379",
+    "nro": "00000000222379",
+    "nombre": "GRUPO DE INVESTIGACION E.S.E HOSPITAL EMIRO QUINTERO CANIZARES",
+    "lider": "LUIS ALFREDO JIMENEZ RODRIGUEZ",
+    "avalado_por": "1 de 7",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000222379"
+  },
+  {
+    "cod_grupo": "COL0241492",
+    "nro": "00000000241492",
+    "nombre": "GEMSER",
+    "lider": "PEDRO PARRA MANTILLA",
+    "avalado_por": "1 de 5",
+    "estado": "GRUPO RECONOCIDO",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000241492"
+  },
+  {
+    "cod_grupo": "COL0044484",
+    "nro": "00000000044484",
+    "nombre": "GRUPO DE INVESTIGACION EN APLICACIONES MECATRONICAS, GRAM",
+    "lider": "CESAR HERNANDO VALENCIA NINO",
+    "avalado_por": "3 de 5",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000044484"
+  },
+  {
+    "cod_grupo": "COL0086439",
+    "nro": "00000000086439",
+    "nombre": "INVERSION Y MODELADO GEOFISICO (IMGEO)",
+    "lider": "HERLING GONZALEZ ALVAREZ",
+    "avalado_por": "3 de 8",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000086439"
+  },
+  {
+    "cod_grupo": "COL0035959",
+    "nro": "00000000035959",
+    "nombre": "APRENDIZAJE Y SOCIEDAD DE LA INFORMACION",
+    "lider": "OSCAR GILBERTO HERNANDEZ SALAMANCA",
+    "avalado_por": "6 de 12",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000035959"
+  },
+  {
+    "cod_grupo": "COL0045178",
+    "nro": "00000000045178",
+    "nombre": "CEDAT",
+    "lider": "JAIME ANDRES QUINTERO GAVIRIA",
+    "avalado_por": "1 de 3",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000045178"
+  },
+  {
+    "cod_grupo": "COL0015778",
+    "nro": "00000000015778",
+    "nombre": "SALUD COLECTIVA",
+    "lider": "EDSON JAIR OSPINA LOZANO",
+    "avalado_por": "1 de 4",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000015778"
+  },
+  {
+    "cod_grupo": "COL0028749",
+    "nro": "00000000028749",
+    "nombre": "FILOSOFIA Y ENSENANZA DE LA FILOSOFIA",
+    "lider": "AUGUSTO MAXIMILIANO PRADA DUSSAN",
+    "avalado_por": "6 de 9",
+    "estado": "CATEGORIA A",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000028749"
+  },
+  {
+    "cod_grupo": "COL0027554",
+    "nro": "00000000027554",
+    "nombre": "INFORMATICA EDUCATIVA",
+    "lider": "RICARDO LUCIANO CHAPARRO ARANGUREN",
+    "avalado_por": "2 de 6",
+    "estado": "CATEGORIA B",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000027554"
+  },
+  {
+    "cod_grupo": "COL0147768",
+    "nro": "00000000147768",
+    "nombre": "GRUPO DE INVESTIGACION EN INGENIERIA EN LA EDUCACION STEM+B",
+    "lider": "MARIA CATALINA RAMIREZ CAJIAO",
+    "avalado_por": "7 de 11",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 894 DE 2021",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000147768"
+  },
+  {
+    "cod_grupo": "COL0078679",
+    "nro": "00000000078679",
+    "nombre": "CIB-CENTRO DE INVESTIGACIONES BIOMEDICAS",
+    "lider": "FERNANDO MANZUR JATTIN",
+    "avalado_por": "4 de 12",
+    "estado": "CATEGORIA C",
+    "clasificacion": "CONVOCATORIA 957 DE 2024",
+    "gruplac_url": "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000078679"
+  }
+]
