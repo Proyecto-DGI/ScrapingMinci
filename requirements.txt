@@ -3,3 +3,7 @@ beautifulsoup4>=4.12.0
 lxml>=4.9.0
 pandas>=2.0.0
 tqdm>=4.66.0
+
+# Fallback de paginación Struts (opcional, solo necesario si requests falla en páginas >1)
+selenium>=4.18.0
+webdriver-manager>=4.0.1
